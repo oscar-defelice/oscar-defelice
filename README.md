@@ -44,7 +44,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-defelice&count_private=true&hide=jupyter notebook, tex" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=oscar-defelice&count_private=true&show_icons=true&hide=stars" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=oscar-defelice&count_private=true&show_icons=true" />
 </a>
 
 <!--- Google Analytics Pixel Tracker -->
