@@ -29,7 +29,7 @@
 </p>
 
 
-- 🔭 I’m currently working on deep learning applications! 
+- 🔭 I’m currently working on deep learning applications!
 - 🌱 I’m always eager to learn.
 - 🧔🏻 I'm always available to discuss about data science topics!
 
