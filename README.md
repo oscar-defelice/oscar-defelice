@@ -40,10 +40,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-@OscardeFelice-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oscardefelice)](https://twitter.com/OscardeFelice)
 [![Linkedin Badge](https://img.shields.io/badge/-oscardefelice-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/oscar-de-felice-5ab72383/)](https://linkedin.com/in/oscar-de-felice-5ab72383/) 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-defelice&count_private=true&hide=jupyter notebook, tex" />
+<a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540oscar-defelice">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-defelice&count_private=true&hide=jupyter notebook, tex, css" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540oscar-defelice">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=oscar-defelice&count_private=true&show_icons=true" />
 </a>
 
