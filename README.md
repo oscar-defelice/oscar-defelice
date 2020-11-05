@@ -1,4 +1,4 @@
-<a href="https://oscar-defelice.github.io"><img src="https://user-images.githubusercontent.com/49638680/98094849-1e716480-1e8a-11eb-8732-7fa3c24c0543.png" height="125" align="right" /></a>
+<a href="https://oscar-defelice.github.io"><img src="https://user-images.githubusercontent.com/49638680/98257151-9f5e5800-1f7f-11eb-9f42-479a4fc6cf24.png" height="125" align="right" /></a>
 
 # Oscar de Felice
 > Theoretical Physicist and Machine Learning passionate. Data Scientist in my spare time.
