@@ -44,7 +44,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-defelice&count_private=true&hide=jupyter notebook, tex" />
 </a>
 <a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540oscar-defelice">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=oscar-defelice&count_private=true&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=oscar-defelice&count_private=true&show_icons=true&langs_count=5" />
 </a>
 
 <!--- Google Analytics Pixel Tracker -->
