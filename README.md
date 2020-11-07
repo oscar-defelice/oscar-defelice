@@ -7,7 +7,7 @@
 <br />
 
 <h2 align="center">
-    :wave: Hello, I'm Oscar!
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hello, I'm Oscar!
 </h2>
 
 <p align="center">
@@ -44,8 +44,8 @@
 <a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540oscar-defelice">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-defelice&count_private=true&langs_count=5&hide=jupyter%20notebook, tex" />
 </a>
-<a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540oscar-defelice">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=oscar-defelice&count_private=true&show_icons=true" />
+<a href="https://coderstats.net/github/#oscar-defelice">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=oscar-defelice&show_icons=true&count_private=true" />
 </a>
 
 
