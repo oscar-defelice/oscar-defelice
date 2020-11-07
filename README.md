@@ -41,10 +41,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-oscardefelice-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/oscar-de-felice-5ab72383/)](https://linkedin.com/in/oscar-de-felice-5ab72383/) 
 
 <a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540oscar-defelice">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-defelice&count_private=true&hide=jupyter notebook, tex" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-defelice&count_private=true&langs_count=5&hide=jupyter notebook, tex" />
 </a>
 <a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540oscar-defelice">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=oscar-defelice&count_private=true&show_icons=true&langs_count=5" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=oscar-defelice&count_private=true&show_icons=true" />
 </a>
 
 <!--- Google Analytics Pixel Tracker -->
