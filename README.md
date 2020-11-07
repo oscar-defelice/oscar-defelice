@@ -30,6 +30,7 @@
 
 
 - 🔭 I’m currently working on deep learning applications!
+- 📈 I like visualisations.
 - 🌱 I’m always eager to learn.
 - 🧔🏻 I'm always available to discuss about data science topics!
 
@@ -41,7 +42,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-oscardefelice-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/oscar-de-felice-5ab72383/)](https://linkedin.com/in/oscar-de-felice-5ab72383/) 
 
 <a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540oscar-defelice">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-defelice&count_private=true&langs_count=7&hide=jupyter%20notebook, tex" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-defelice&count_private=true&langs_count=5&hide=jupyter%20notebook, tex" />
 </a>
 <a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540oscar-defelice">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=oscar-defelice&count_private=true&show_icons=true" />
