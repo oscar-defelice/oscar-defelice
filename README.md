@@ -46,7 +46,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-defelice&count_private=true&langs_count=9&hide=jupyter%20notebook,tex&layout=compact" />
 </a>
 <a href="https://coderstats.net/github/#oscar-defelice">
-  <img align="right" width="550" src="https://github-readme-stats.vercel.app/api?username=oscar-defelice&show_icons=true&count_private=true" />
+  <img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=oscar-defelice&show_icons=true&count_private=true" />
 </a>
 
 <!--- Google Analytics Pixel Tracker -->
