@@ -7,7 +7,7 @@
 <br />
 
 <h2 align="center">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hello, I'm Oscar!
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px"> Hello, I'm Oscar!
 </h2>
 
 <p align="center">
