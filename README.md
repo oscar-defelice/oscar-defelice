@@ -38,6 +38,8 @@
 - 📫 How to reach me: [write me an email](mailto:oscar.defelice@gmail.com) or you can drop me a message on my social pages
 <br />
 
+- ❤ If you enjoy what I do, you [can become a sponsor and fund me](https://github.com/sponsors/oscar-defelice/)
+
 [![Website](https://img.shields.io/badge/oscar--defelice-oscar-orange?style=plastic&logo=netlify&logoColor=informational&link=oscar-defelice.github.io)](https://oscar-defelice.github.io)
 [![Twitter Badge](https://img.shields.io/badge/-@OscardeFelice-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oscardefelice)](https://twitter.com/OscardeFelice)
 [![Linkedin Badge](https://img.shields.io/badge/-oscardefelice-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/oscar-de-felice-5ab72383/)](https://linkedin.com/in/oscar-de-felice-5ab72383/) 
