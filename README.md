@@ -34,11 +34,8 @@
 - 🧔🏻 I love being in a class with students.
 - 🌱 I’m always eager to learn.
 - 💬 I'm always available to discuss data science topics!
-
 - 📫 How to reach me: [write me an email](mailto:oscar.defelice@gmail.com) or you can drop me a message on my social pages
-<br />
-
-- ❤ If you enjoy what I do, you [can become a sponsor and fund me](https://github.com/sponsors/oscar-defelice/)
+- ❤ If you enjoy what I do, you [can become a sponsor and fund me](https://github.com/sponsors/oscar-defelice/) <br />
 
 [![Website](https://img.shields.io/badge/oscar--defelice-oscar-orange?style=plastic&logo=netlify&logoColor=informational&link=oscar-defelice.github.io)](https://oscar-defelice.github.io)
 [![Twitter Badge](https://img.shields.io/badge/-@OscardeFelice-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oscardefelice)](https://twitter.com/OscardeFelice)
