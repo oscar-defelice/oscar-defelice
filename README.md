@@ -48,7 +48,9 @@
 
 ---
 
-<img align="center" src="https://raw.githubusercontent.com/oscar-defelice/oscar-defelice/output/github-contribution-grid-snake-dark.svg" />
+<p align="center">
+    <img align="center" src="https://raw.githubusercontent.com/oscar-defelice/oscar-defelice/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
