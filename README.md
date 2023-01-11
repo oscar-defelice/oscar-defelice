@@ -61,6 +61,15 @@
   <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=oscar-defelice&show_icons=true&count_private=true" />
 </a>
 
+
+<!---
+<br />
+<br />
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=oscar-defelice&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j">
+</p>
+--->
+
 <!--- Google Analytics Pixel Tracker -->
 <img src="https://www.google-analytics.com/collect?v=1&t=pageview&tid=UA-140255752-1&dh=github.com&dp=https%3A%2F%2Fgithub.com%2Foscar-defelice" />
 
