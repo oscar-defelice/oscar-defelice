@@ -6,6 +6,14 @@
 <br />
 <br />
 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/49638680/220298768-ea776c44-44d2-4693-ae46-19b014965c0b.png" height="350px">
+</p>
+
+
+<br />
+<br />
+
 <h2 align="center">
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px"> Hello, I'm Oscar!
 </h2>
