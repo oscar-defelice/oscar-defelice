@@ -37,10 +37,10 @@
 </p>
 
 
-- 🔭 I’m currently working on deep learning applications!
+- 🧬 I’m currently working on deep learning applications to genomic medicine!
 - 📈 I like visualisations.
 - 🧔🏻 I love being in a class with students.
-- 🌱 I’m always eager to learn.
+- 🔭 I’m always eager to learn.
 - 💬 I'm always available to discuss data science topics!
 - 📫 How to reach me: [write me an email](mailto:oscar.defelice@gmail.com) or you can drop me a message on my social pages
 - ❤ If you enjoy what I do, you [can become a sponsor and fund me](https://github.com/sponsors/oscar-defelice/) <br />
