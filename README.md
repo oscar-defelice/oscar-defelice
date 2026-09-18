@@ -63,10 +63,10 @@
 ---
 
 <a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540oscar-defelice">
-  <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=oscar-defelice&count_private=true&langs_count=9&hide=jupyter%20notebook,tex&layout=compact" />
+  <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=oscar-defelice&theme=gruvbox&count_private=true&langs_count=9&hide=jupyter%20notebook,tex&layout=compact" />
 </a>
 <a href="https://coderstats.github.io/github/#oscar-defelice">
-  <img align="right" width="450" src="https://github-stats-extended.vercel.app/api?username=oscar-defelice&show_icons=true&count_private=true" />
+  <img align="right" width="450" src="https://github-stats-extended.vercel.app/api?username=oscar-defelice&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=gruvbox" />
 </a>
 
 
